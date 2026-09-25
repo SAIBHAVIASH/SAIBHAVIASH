@@ -3,7 +3,12 @@ Core implementations in Java &amp; DSA, database design with MySQL, and web basi
 
 
 # 💫 About Me:
-🔭 I’m currently working on Building foundational projects in AI & Machine Learning<br>👯 I’m looking to collaborate on Beginner-friendly open-source projects in Java and Web Development<br>🤝 I’m looking for help with Advanced Data Structures, Algorithms, and Machine Learning workflows<br>🌱 I’m currently learning Java, SQL, HTML/CSS, and Core AIML concepts<br>💬 Ask me about ava basics, web development fundamentals, and AIML<br>⚡ Fun fact My code runs perfectly on the first try… only in my dreams.
+- 🔭 **I’m currently working on** Building foundational projects in AI & Machine Learning
+- 👯 **I’m looking to collaborate on** Beginner-friendly open-source projects in Java and Web Development
+- 🤝 **I’m looking for help with** Advanced Data Structures, Algorithms, and Machine Learning workflows
+- 🌱 **I’m currently learning** Java, SQL, HTML/CSS, and Core AIML concepts
+- 💬 **Ask me about** Java basics, web development fundamentals, and AIML
+- ⚡ **Fun fact:** My code runs perfectly on the first try… only in my dreams.
 
 
 ## 🌐 Socials:
