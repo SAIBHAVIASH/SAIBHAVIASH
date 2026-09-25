@@ -1,4 +1,11 @@
-# software-engineering-foundations
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sai Bhaviash</h1>
+<h3 align="center">AIML Student &middot; Aspiring Software Engineer &middot; Tech Enthusiast</h3>
+
+<p align="center">
+  <em>Passionate about Artificial Intelligence, Machine Learning, and building impactful software solutions.</em>
+</p>
+
+---
 Core implementations in Java &amp; DSA, database design with MySQL, and web basics with HTML.
 
 
